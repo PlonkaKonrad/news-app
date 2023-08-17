@@ -1,4 +1,5 @@
-This is simple next js 13 news app
+This is simple next js 13 news app.
+
 The app uses https://github.com/SauravKanchan/NewsAPI api
 
 - clone repository 
